@@ -72,7 +72,7 @@
     <log4j2-version>2.23.1</log4j2-version>
     <slf4j-version>1.7.36</slf4j-version>
     <javax-json-version>1.1.4</javax-json-version>
-    <datadoghq-version>2.7</datadoghq-version>
+    <datadoghq-version>4.4.5</datadoghq-version>
     <googlecode-concurrentlinkedhashmap-lru-version>1.4.2</googlecode-concurrentlinkedhashmap-lru-version>
     <googlecode-findbugs-jsr305-version>3.0.2</googlecode-findbugs-jsr305-version>
     <!-- Care must be taken when updating the prometheus client lib version
